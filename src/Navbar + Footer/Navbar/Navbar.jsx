@@ -1,3 +1,4 @@
+// Nav bar
 import React, { useEffect } from 'react';
 import './Navbar.css';
 import logo from '../../assets/logo.svg';
